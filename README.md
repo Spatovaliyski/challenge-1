@@ -1,5 +1,5 @@
-# challenge 2
-Second challenge. No styling just the framework tools
+# Challenge 1 Description
+First challenge. No styling just the framework tools
 
 I couldn't take the images, so I improvised with some Google-found images.
 Couldn't edit the orange colour on "our clients". Blue is the new orange.
